@@ -38,7 +38,7 @@ Check out the live demo [here](https://drive.google.com/file/d/1n30SGGuh57pe3SQ2
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/grocery-webapp.git
+git clone https://github.com/m4-rk/NM-project-mern.git
 cd grocery-webapp 
 ```
 
